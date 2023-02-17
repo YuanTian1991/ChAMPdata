@@ -1,13 +1,9 @@
 champBloodCtls: bloodCtl
 multi.hit
 probe.features
-probe.features.epic
-probeInfoALL.lv
-probeInfoALL.epic.lv
+probe.features.epicv1
+probe.features.epicv2
 snp.hit
-testDataSet
-illumina450Gr
-illuminaEPICGr
 CellTypeMeans450K
 CellTypeMeans27K
 EPICSimData
