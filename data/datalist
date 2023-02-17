@@ -1,20 +1,19 @@
-champBloodCtls: bloodCtl
-multi.hit
+Anno450K
+AnnoEPICv1
+AnnoEPICv2
 probe.features
 probe.features.epicv1
 probe.features.epicv2
+champBloodCtls: bloodCtl
+multi.hit
 snp.hit
 CellTypeMeans450K
 CellTypeMeans27K
-EPICSimData
 ControlProbes450K
 ControlProbesEPIC
 PathwayList
 MatchGeneName
 hprdAsigH
-Anno450K
-AnnoEPICv1
-AnnoEPICv2
 EPIC.manifest.hg19
 EPIC.manifest.pop.hg19
 hm450.manifest.hg19

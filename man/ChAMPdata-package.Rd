@@ -33,15 +33,15 @@ Maintainer: Yuan Tian and Tiffany Morris <champ450k@gmail.com>
 }
 
 \examples{
-data(probeInfoALL.lv)
+data(Anno450K)
+data(AnnoEPICv1)
+data(AnnoEPICv2)
+
 data(probe.features)
-data(testDataSet)
+data(probe.features.epicv1)
+data(probe.features.epicv2)
+
 data(champBloodCtls)
-data(EPICSimData)
-data(illumina450Gr)
-data(illuminaEPICGr)
-data(probeInfoALL.epic.lv)
-data(probe.features.epic)
 data(CellTypeMeans27K)
 data(CellTypeMeans450K)
 }
