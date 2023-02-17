@@ -1,13 +1,13 @@
-\name{AnnoEPIC}
-\alias{AnnoEPIC}
+\name{AnnoEPICv2}
+\alias{AnnoEPICv2}
 \docType{data}
 \title{
-AnnoEPIC
+AnnoEPICv2
 }
 \description{
-HumanMethylationEPIC Loading Information, generated from Infinium MethylationEPIC v1.0 B4 Manifest File (CSV Format) (https://support.illumina.com/array/array_kits/infinium-methylationepic-beadchip-kit/downloads.html).
+HumanMethylationEPIC Loading Information, generated from Infinium MethylationEPIC V2 (CSV Format) (https://support.illumina.com/array/array_kits/infinium-methylationepic-beadchip-kit/downloads.html).
 }
-\usage{data(AnnoEPIC)}
+\usage{data(AnnoEPICv2)}
 \format{
   Loading Information, probe and their address on chip.
   \describe{
@@ -16,6 +16,6 @@ HumanMethylationEPIC Loading Information, generated from Infinium MethylationEPI
   }
 }
 \examples{
-data(AnnoEPIC)
+data(AnnoEPICv2)
 }
 \keyword{datasets}
