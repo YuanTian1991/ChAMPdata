@@ -1,7 +1,7 @@
 Package: ChAMPdata
 Type: Package
 Title: Data Packages for ChAMP package
-Version: 2.31.0
+Version: 2.31.1
 Date: 2021-11-22
 Author: Yuan Tian [ctb,aut], Tiffany Morris [cre,aut], Lee Stirling [ctb] and Andrew Teschendorff [ctb]
 Maintainer: Yuan Tian <champ450k@gmail.com>
