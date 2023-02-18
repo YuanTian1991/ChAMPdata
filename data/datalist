@@ -4,6 +4,9 @@ AnnoEPICv2
 probe.features
 probe.features.epicv1
 probe.features.epicv2
+Hm450K_Mask
+EPICv1_Mask
+EPICv2_Mask
 champBloodCtls: bloodCtl
 multi.hit
 snp.hit
@@ -14,7 +17,3 @@ ControlProbesEPIC
 PathwayList
 MatchGeneName
 hprdAsigH
-EPIC.manifest.hg19
-EPIC.manifest.pop.hg19
-hm450.manifest.hg19
-hm450.manifest.pop.hg19
